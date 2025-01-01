@@ -24,3 +24,10 @@
 - git add README.md
 - git commit -m “เพิ่มคำสั่ง”
 - git push
+- แก้ไขอิโมจิ
+- git add index.html
+- git commit -m "แก้ไขอิโมจิ"
+- แก้ไขคำสั่งใน README
+- git add README.md
+- git commit -m "เพิ่มคำสั่ง(แก้ไขอิโมจิ)"
+- git push
